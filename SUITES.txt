@@ -1,0 +1,10 @@
+discord.com
+youtube.com
+googlevideo.com
+ytimg.com
+ggpht.com
+gstatic.com
+googleapis.com
+telegram.org
+web.telegram.org
+web.telegram.org/a/
