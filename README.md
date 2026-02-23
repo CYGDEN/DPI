@@ -1,2 +1,1 @@
-[![](https://img.shields.io/badge/-DPI_REPO-black?style=for-the-badge&logo=)](HTTPS://GITHUB.COM/CYGDEN/DPI)
-[![](https://img.shields.io/badge/-FORKED_FROM-black?style=for-the-badge&logo=)](HTTPS://GITHUB.COM/FLOWSEAL/ZAPRET-DISCORD-YOUTUBE)
+<img width="1903" height="1041" alt="35g" src="https://github.com/user-attachments/assets/a771444a-fd60-405e-873b-04827420fb80" />[![](https://img.shields.io/badge/-DPI_REPO-black?style=for-the-badge&logo=)](HTTPS://GITHUB.COM/CYGDEN/DPI)[![](https://img.shields.io/badge/-FORKED_FROM-black?style=for-the-badge&logo=)](HTTPS://GITHUB.COM/FLOWSEAL/ZAPRET-DISCORD-YOUTUBE)
